@@ -6,11 +6,11 @@ import java.util.ArrayList;
 /**
  * Created by LYES-PC on 01/04/14.
  */
-@WebService(endpointInterface="rest.model.CvService")
+@WebService(endpointInterface="Rest.CvService")
 public class CvImpl implements CvService {
 
     public Cv getCv() {
-        return new Cv("Dupon", "jEan", "test");
+        return new Cv("Lyes", "Chioukh", "RMA");
     }
 
     public CvArray getAllCv() {
