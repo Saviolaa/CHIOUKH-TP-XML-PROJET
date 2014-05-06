@@ -10,7 +10,6 @@
 
     <packaging>war</packaging>
 
-
     <properties>
         <spring.version>3.0.5.RELEASE</spring.version>
     </properties>
@@ -42,12 +41,9 @@
             <version>2.7.10</version>
         </dependency>
 
-    </dependencies>
-
-
+</dependencies>
 
 </project>
-
 
 
 
