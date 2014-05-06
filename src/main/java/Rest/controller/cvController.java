@@ -43,7 +43,7 @@ cv getResumeInXML(@PathVariable String id){
 */
 
     //Ajout de cvs
-    @RequestMapping(method = RequestMethod.PUT)
+    @RequestMapping(value = "/put", method = RequestMethod.PUT)
     public ResponseEntity<cvList>  putCvInList(@RequestBody cv cv) {
         moncvList.AjouterCV(cv);
         ResponseEntity<cvList> cvListResponseEntity=new ResponseEntity<cvList>(HttpStatus.OK);

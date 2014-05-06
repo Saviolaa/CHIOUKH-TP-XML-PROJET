@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="673884cd-2eb0-494a-a844-cc4541666397" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/Rest/model/cv.java" afterPath="$PROJECT_DIR$/src/main/java/Rest/model/cv.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/Rest/controller/cvController.java" afterPath="$PROJECT_DIR$/src/main/java/Rest/controller/cvController.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/Rest/model/cvList.java" afterPath="$PROJECT_DIR$/src/main/java/Rest/model/cvList.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
@@ -82,10 +83,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="cvList.java" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="cvList.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/Rest/model/cvList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="45" column="27" selection-start="1135" selection-end="1135" vertical-scroll-proportion="0.0" vertical-offset="459" max-vertical-offset="1547">
+            <state line="80" column="25" selection-start="2091" selection-end="2091" vertical-scroll-proportion="3.3333333" vertical-offset="0" max-vertical-offset="1547">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -93,25 +94,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="cvController.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="cvController.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Rest/controller/cvController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="86" column="36" selection-start="2907" selection-end="2907" vertical-scroll-proportion="1.3798883" vertical-offset="968" max-vertical-offset="2057">
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#520#521#0" expanded="true" />
-                <element signature="e#562#563#0" expanded="true" />
-                <element signature="e#598#599#0" expanded="true" />
-                <element signature="e#630#631#0" expanded="true" />
-                <element signature="e#1146#1154#0" expanded="true" />
-                <element signature="e#1788#1796#0" expanded="true" />
-                <element signature="e#1855#1863#0" expanded="true" />
-                <element signature="e#1916#1924#0" expanded="true" />
-                <element signature="e#2439#2447#0" expanded="true" />
-                <element signature="e#2507#2515#0" expanded="true" />
-                <element signature="e#2569#2577#0" expanded="true" />
-                <element signature="e#3158#3166#0" expanded="true" />
-              </folding>
+            <state line="55" column="0" selection-start="1404" selection-end="1404" vertical-scroll-proportion="0.0" vertical-offset="611" max-vertical-offset="2057">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -119,26 +106,8 @@
       <file leaf-file-name="cv.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Rest/model/cv.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="29" column="24" selection-start="597" selection-end="604" vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="1547">
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#662#663#0" expanded="true" />
-                <element signature="e#689#690#0" expanded="true" />
-                <element signature="e#745#746#0" expanded="true" />
-                <element signature="e#777#778#0" expanded="true" />
-                <element signature="e#807#808#0" expanded="true" />
-                <element signature="e#836#837#0" expanded="true" />
-                <element signature="e#893#894#0" expanded="true" />
-                <element signature="e#929#930#0" expanded="true" />
-                <element signature="e#962#963#0" expanded="true" />
-                <element signature="e#991#992#0" expanded="true" />
-                <element signature="e#1051#1052#0" expanded="true" />
-                <element signature="e#1087#1088#0" expanded="true" />
-                <element signature="e#1122#1123#0" expanded="true" />
-                <element signature="e#1153#1154#0" expanded="true" />
-                <element signature="e#1217#1218#0" expanded="true" />
-                <element signature="e#1257#1258#0" expanded="true" />
-              </folding>
+            <state line="79" column="7" selection-start="1613" selection-end="1613" vertical-scroll-proportion="0.0" vertical-offset="1136" max-vertical-offset="1598">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -146,7 +115,7 @@
       <file leaf-file-name="mvc-dispatcher-servlet.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/mvc-dispatcher-servlet.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="46" selection-start="701" selection-end="701" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="646">
+            <state line="11" column="46" selection-start="701" selection-end="701" vertical-scroll-proportion="0.0" vertical-offset="187" max-vertical-offset="646">
               <folding />
             </state>
           </provider>
@@ -155,7 +124,7 @@
       <file leaf-file-name="web.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="9" selection-start="208" selection-end="208" vertical-scroll-proportion="0.0" vertical-offset="131" max-vertical-offset="561">
+            <state line="3" column="9" selection-start="208" selection-end="208" vertical-scroll-proportion="0.0" vertical-offset="153" max-vertical-offset="561">
               <folding />
             </state>
           </provider>
@@ -192,9 +161,9 @@
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/cxf-servlet.xml" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/mvc-dispatcher-servlet.xml" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/Rest/controller/cvController.java" />
         <option value="$PROJECT_DIR$/src/main/java/Rest/model/cv.java" />
         <option value="$PROJECT_DIR$/src/main/java/Rest/model/cvList.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Rest/controller/cvController.java" />
       </list>
     </option>
   </component>
@@ -270,8 +239,8 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -426,7 +395,7 @@
     <property name="dynamic.classpath" value="false" />
     <property name="FullScreen" value="false" />
     <property name="recentsLimit" value="5" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../CHIOUKH-Lyes-TP-XML-PROJET" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../CHIOUKH-TP-XML-CLIENT-PROJET" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -462,6 +431,26 @@
       <option name="PROGRAM_PARAMETERS" />
       <method />
     </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
     <configuration default="true" type="MavenRunConfiguration" factoryName="Maven">
       <MavenSettings>
         <option name="myGeneralSettings" />
@@ -484,45 +473,12 @@
       </MavenSettings>
       <method />
     </configuration>
-    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
-      <module name="" />
-      <option name="TESTING_TYPE" value="0" />
-      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
-      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
-      <option name="PREFERRED_AVD" value="" />
-      <option name="USE_COMMAND_LINE" value="true" />
-      <option name="COMMAND_LINE" value="" />
-      <option name="WIPE_USER_DATA" value="false" />
-      <option name="DISABLE_BOOT_ANIMATION" value="false" />
-      <option name="NETWORK_SPEED" value="full" />
-      <option name="NETWORK_LATENCY" value="none" />
-      <option name="CLEAR_LOGCAT" value="false" />
-      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
-      <method />
-    </configuration>
     <configuration default="true" type="Remote" factoryName="Remote">
       <option name="USE_SOCKET_TRANSPORT" value="true" />
       <option name="SERVER_MODE" value="false" />
       <option name="SHMEM_ADDRESS" value="javadebug" />
       <option name="HOST" value="localhost" />
       <option name="PORT" value="5005" />
-      <method />
-    </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
@@ -550,6 +506,19 @@
       <envs />
       <properties />
       <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -650,7 +619,11 @@
       <created>1399344323934</created>
       <updated>1399344323934</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Test réussi : GET et GET avec id">
+      <created>1399364445265</created>
+      <updated>1399364445265</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -664,22 +637,22 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3534202" sideWeight="0.12537764" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2931596" sideWeight="0.12537764" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32899022" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17069486" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17296073" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23867069" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3534202" sideWeight="0.87462234" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23867069" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2931596" sideWeight="0.87462234" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32899022" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32899022" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -696,7 +669,8 @@
     </option>
     <MESSAGE value="Amélioration du CV + Requetes" />
     <MESSAGE value="Requ. Delete;&#10;Pour afficher la liste des CVS il faut aller sur : &#10;&#10;http://chioukh-tp-xml-projet.saviolaa.cloudbees.net/rest/cv" />
-    <option name="LAST_COMMIT_MESSAGE" value="Requ. Delete;&#10;Pour afficher la liste des CVS il faut aller sur : &#10;&#10;http://chioukh-tp-xml-projet.saviolaa.cloudbees.net/rest/cv" />
+    <MESSAGE value="Test réussi : GET et GET avec id" />
+    <option name="LAST_COMMIT_MESSAGE" value="Test réussi : GET et GET avec id" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -706,6 +680,50 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="45" column="0" selection-start="1401" selection-end="1401" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="952">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Rest/model/cvList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="79" column="29" selection-start="2094" selection-end="2094" vertical-scroll-proportion="0.0" vertical-offset="68" max-vertical-offset="1513">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Rest/controller/cvController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="55" column="0" selection-start="1404" selection-end="1404" vertical-scroll-proportion="0.0" vertical-offset="611" max-vertical-offset="2057">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Rest/model/cv.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="79" column="7" selection-start="1613" selection-end="1613" vertical-scroll-proportion="0.0" vertical-offset="1136" max-vertical-offset="1598">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/mvc-dispatcher-servlet.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="46" selection-start="701" selection-end="701" vertical-scroll-proportion="0.0" vertical-offset="187" max-vertical-offset="646">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="9" selection-start="208" selection-end="208" vertical-scroll-proportion="0.0" vertical-offset="153" max-vertical-offset="561">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="45" column="0" selection-start="1401" selection-end="1401" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="952">
@@ -725,46 +743,14 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/Rest/controller/cvController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="26" column="0" selection-start="587" selection-end="587" vertical-scroll-proportion="0.0" vertical-offset="442" max-vertical-offset="663">
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#520#521#0" expanded="true" />
-            <element signature="e#562#563#0" expanded="true" />
-            <element signature="e#598#599#0" expanded="true" />
-            <element signature="e#630#631#0" expanded="true" />
-            <element signature="e#1146#1154#0" expanded="true" />
-            <element signature="e#1788#1796#0" expanded="true" />
-            <element signature="e#1855#1863#0" expanded="true" />
-            <element signature="e#1916#1924#0" expanded="true" />
-            <element signature="e#2439#2447#0" expanded="true" />
-            <element signature="e#2507#2515#0" expanded="true" />
-            <element signature="e#2569#2577#0" expanded="true" />
-            <element signature="e#3158#3166#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Rest/model/cv.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="26" column="15" selection-start="496" selection-end="496" vertical-scroll-proportion="0.0" vertical-offset="442" max-vertical-offset="1037">
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#662#663#0" expanded="true" />
-            <element signature="e#689#690#0" expanded="true" />
-            <element signature="e#745#746#0" expanded="true" />
-            <element signature="e#777#778#0" expanded="true" />
-            <element signature="e#807#808#0" expanded="true" />
-            <element signature="e#836#837#0" expanded="true" />
-            <element signature="e#893#894#0" expanded="true" />
-            <element signature="e#929#930#0" expanded="true" />
-            <element signature="e#962#963#0" expanded="true" />
-            <element signature="e#991#992#0" expanded="true" />
-            <element signature="e#1051#1052#0" expanded="true" />
-            <element signature="e#1087#1088#0" expanded="true" />
-            <element signature="e#1122#1123#0" expanded="true" />
-            <element signature="e#1153#1154#0" expanded="true" />
-            <element signature="e#1217#1218#0" expanded="true" />
-            <element signature="e#1257#1258#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -801,46 +787,14 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/Rest/controller/cvController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="26" column="0" selection-start="587" selection-end="587" vertical-scroll-proportion="0.0" vertical-offset="442" max-vertical-offset="663">
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#520#521#0" expanded="true" />
-            <element signature="e#562#563#0" expanded="true" />
-            <element signature="e#598#599#0" expanded="true" />
-            <element signature="e#630#631#0" expanded="true" />
-            <element signature="e#1146#1154#0" expanded="true" />
-            <element signature="e#1788#1796#0" expanded="true" />
-            <element signature="e#1855#1863#0" expanded="true" />
-            <element signature="e#1916#1924#0" expanded="true" />
-            <element signature="e#2439#2447#0" expanded="true" />
-            <element signature="e#2507#2515#0" expanded="true" />
-            <element signature="e#2569#2577#0" expanded="true" />
-            <element signature="e#3158#3166#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Rest/model/cv.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="26" column="15" selection-start="496" selection-end="496" vertical-scroll-proportion="0.0" vertical-offset="442" max-vertical-offset="1037">
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#662#663#0" expanded="true" />
-            <element signature="e#689#690#0" expanded="true" />
-            <element signature="e#745#746#0" expanded="true" />
-            <element signature="e#777#778#0" expanded="true" />
-            <element signature="e#807#808#0" expanded="true" />
-            <element signature="e#836#837#0" expanded="true" />
-            <element signature="e#893#894#0" expanded="true" />
-            <element signature="e#929#930#0" expanded="true" />
-            <element signature="e#962#963#0" expanded="true" />
-            <element signature="e#991#992#0" expanded="true" />
-            <element signature="e#1051#1052#0" expanded="true" />
-            <element signature="e#1087#1088#0" expanded="true" />
-            <element signature="e#1122#1123#0" expanded="true" />
-            <element signature="e#1153#1154#0" expanded="true" />
-            <element signature="e#1217#1218#0" expanded="true" />
-            <element signature="e#1257#1258#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -905,16 +859,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.7.0_45/src.zip!/javax/xml/bind/annotation/XmlElement.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="140" column="18" selection-start="3792" selection-end="3823" vertical-scroll-proportion="0.33255813" vertical-offset="1744" max-vertical-offset="3179">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/3.0.5.RELEASE/spring-web-3.0.5.RELEASE.jar!/org/springframework/web/bind/annotation/RequestMethod.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="21" selection-start="218" selection-end="218" vertical-scroll-proportion="-4.08" vertical-offset="0" max-vertical-offset="323">
+        <state line="7" column="21" selection-start="218" selection-end="218" vertical-scroll-proportion="-4.08" vertical-offset="0" max-vertical-offset="323" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/mvc-dispatcher-servlet.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="46" selection-start="701" selection-end="701" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="646">
           <folding />
         </state>
       </provider>
@@ -926,64 +878,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/mvc-dispatcher-servlet.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Rest/controller/cvController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="46" selection-start="701" selection-end="701" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="646">
+        <state line="55" column="0" selection-start="1404" selection-end="1404" vertical-scroll-proportion="0.0" vertical-offset="611" max-vertical-offset="2057">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_45/src.zip!/javax/xml/bind/annotation/XmlElement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="140" column="18" selection-start="3810" selection-end="3810" vertical-scroll-proportion="0.3316062" vertical-offset="1759" max-vertical-offset="3179" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Rest/model/cv.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="79" column="7" selection-start="1613" selection-end="1613" vertical-scroll-proportion="0.0" vertical-offset="1136" max-vertical-offset="1598">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Rest/model/cvList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="45" column="27" selection-start="1135" selection-end="1135" vertical-scroll-proportion="0.0" vertical-offset="459" max-vertical-offset="1547">
+        <state line="80" column="25" selection-start="2091" selection-end="2091" vertical-scroll-proportion="3.3333333" vertical-offset="0" max-vertical-offset="1547">
           <folding>
             <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Rest/model/cv.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="24" selection-start="597" selection-end="604" vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="1547">
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#662#663#0" expanded="true" />
-            <element signature="e#689#690#0" expanded="true" />
-            <element signature="e#745#746#0" expanded="true" />
-            <element signature="e#777#778#0" expanded="true" />
-            <element signature="e#807#808#0" expanded="true" />
-            <element signature="e#836#837#0" expanded="true" />
-            <element signature="e#893#894#0" expanded="true" />
-            <element signature="e#929#930#0" expanded="true" />
-            <element signature="e#962#963#0" expanded="true" />
-            <element signature="e#991#992#0" expanded="true" />
-            <element signature="e#1051#1052#0" expanded="true" />
-            <element signature="e#1087#1088#0" expanded="true" />
-            <element signature="e#1122#1123#0" expanded="true" />
-            <element signature="e#1153#1154#0" expanded="true" />
-            <element signature="e#1217#1218#0" expanded="true" />
-            <element signature="e#1257#1258#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Rest/controller/cvController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="86" column="36" selection-start="2907" selection-end="2907" vertical-scroll-proportion="1.3798883" vertical-offset="968" max-vertical-offset="2057">
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#520#521#0" expanded="true" />
-            <element signature="e#562#563#0" expanded="true" />
-            <element signature="e#598#599#0" expanded="true" />
-            <element signature="e#630#631#0" expanded="true" />
-            <element signature="e#1146#1154#0" expanded="true" />
-            <element signature="e#1788#1796#0" expanded="true" />
-            <element signature="e#1855#1863#0" expanded="true" />
-            <element signature="e#1916#1924#0" expanded="true" />
-            <element signature="e#2439#2447#0" expanded="true" />
-            <element signature="e#2507#2515#0" expanded="true" />
-            <element signature="e#2569#2577#0" expanded="true" />
-            <element signature="e#3158#3166#0" expanded="true" />
           </folding>
         </state>
       </provider>

@@ -37,14 +37,12 @@ public class cvList {
 
             //vérifier si le cv courant et le cv recherché
             cv elem = (cv) iter.next();
-
-            if (elem.getNumero() > temp)
-            {temp = elem.getNumero();}
+       //     temp = elem.getNumero();
         }
         //Une fois sortie du while, on aura dans temps le plus grand numero de
         //CV existant dans la liste des cvs
-        if(temp==0){temp=1;}
-        cv.setNumero(temp);
+        //if(temp==0){temp=1;}
+       // cv.setNumero(temp+1);
         //Ajouter le cv à cvs
         cvs.add(cv);
 
@@ -60,8 +58,8 @@ public class cvList {
         while (iter.hasNext()) {
             //vérifier si le cv courant et le cv recherché
             cv elem = (cv) iter.next();
-            if (elem.getNumero() == numero)
-            {cvs.remove(elem);}
+         //   if (elem.getNumero() == numero)
+        //    {cvs.remove(elem);}
         }
     }
 
@@ -69,17 +67,19 @@ public class cvList {
     public cv ChercherCv(int numero) {
 
         // Récupération d'un Iterator sur cvs
-        Iterator iter = cvs.iterator();
+       // Iterator iter = cvs.iterator();
 
         // Parcourir de la liste  des CV cvs
-        while (iter.hasNext()) {
+       // while (iter.hasNext()) {
             //vérifier si le cv courant et le cv recherché
-            cv elem = (cv) iter.next();
-            if (elem.getNumero() == numero)
-            {return elem;}
-        }
+        //    cv elem = (cv) iter.next();
+       //     if (elem.getNumero() == numero)
+        //    {return elem;}
+      //  }
         // Si le cv n'existe pas
-        return null;
+
+        //+1 car laliste commence par zero
+        return cvs.get(numero + 1);
     }
 
 }
