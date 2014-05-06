@@ -42,6 +42,7 @@ cv getResumeInXML(@PathVariable String id){
     }
 */
 
+    //Ajout de cvs
     @RequestMapping(method = RequestMethod.PUT)
     public ResponseEntity<cvList>  putCvInList(@RequestBody cv cv) {
         moncvList.AjouterCV(cv);
@@ -49,6 +50,7 @@ cv getResumeInXML(@PathVariable String id){
         return cvListResponseEntity;
     }
 
+    //Affichage d'un seul CV par num
     @RequestMapping(value="/{numero}", method = RequestMethod.GET)
     public ResponseEntity<cv> getCvInXML(@PathVariable int numero) {
 
@@ -56,11 +58,20 @@ cv getResumeInXML(@PathVariable String id){
         return cvResponseEntity;
     }
 
+    //Affichage de tout les CVS
     @RequestMapping(method = RequestMethod.GET)
     public ResponseEntity<cvList> getLesCvsInXML() {
 
         ResponseEntity<cvList> cvListResponseEntity=new ResponseEntity<cvList>(moncvList,HttpStatus.OK);
         return cvListResponseEntity;
+    }
+
+    //Suppression d'un seul cv, par num
+    @RequestMapping(value="/{numero}", method = RequestMethod.DELETE)
+    public ResponseEntity<cv> deleteCvInXML(@PathVariable int numero) {
+        moncvList.SupprimerCV(numero);
+        ResponseEntity<cv> cvDeleteResponseEntity=new ResponseEntity<cv>(HttpStatus.OK);
+        return cvDeleteResponseEntity;
     }
 
     public static void main(String args[]) throws Exception {
