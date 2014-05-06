@@ -43,6 +43,7 @@ public class cvList {
         }
         //Une fois sortie du while, on aura dans temps le plus grand numero de
         //CV existant dans la liste des cvs
+        if(temp==0){temp=1;}
         cv.setNumero(temp);
         //Ajouter le cv à cvs
         cvs.add(cv);

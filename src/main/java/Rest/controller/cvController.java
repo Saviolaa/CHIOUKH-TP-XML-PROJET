@@ -61,7 +61,33 @@ cv getResumeInXML(@PathVariable String id){
     //Affichage de tout les CVS
     @RequestMapping(method = RequestMethod.GET)
     public ResponseEntity<cvList> getLesCvsInXML() {
+        //pour tester ***************************************
+        ArrayList<String> scolarites = new ArrayList<String>();
+        ArrayList<String> experiencePro = new ArrayList<String>();
+        ArrayList<String> langues = new ArrayList<String>();
+        scolarites.add("Licence Informatique, univ rouen, 2011");
+        scolarites.add("Master Informatique, univ rouen, 2013");
+        experiencePro.add("Expert test a google, 4 ans");
+        experiencePro.add("Developpeur a Fcabook, 6mois");
+        langues.add("Français");
+        langues.add("Arabe");
+        moncvList.AjouterCV(new cv(1, "chioukh", "lyes", "Recherche Stage", scolarites,
+                experiencePro,
+                langues));
 
+        ArrayList<String> scolarites1 = new ArrayList<String>();
+        ArrayList<String> experiencePro1 = new ArrayList<String>();
+        ArrayList<String> langues1 = new ArrayList<String>();
+        scolarites1.add("Licence media, univ rouen, 2011");
+        scolarites1.add("Master chronique, univ rouen, 2013");
+        experiencePro1.add("Chroniqueur NRJ, 4 ans");
+        experiencePro1.add("Canal+ , 6mois");
+        langues1.add("Français");
+        langues1.add("Anglais");
+        moncvList.AjouterCV(new cv(2, "Nicolas", "Bideau", "Recherche Stage", scolarites1,
+                experiencePro1,
+                langues1));
+        //Fin pour tester ***************************************
         ResponseEntity<cvList> cvListResponseEntity=new ResponseEntity<cvList>(moncvList,HttpStatus.OK);
         return cvListResponseEntity;
     }
