@@ -23,7 +23,6 @@ public class cvController {
     public void setMoncvList(cvList moncvList) {
         this.moncvList = moncvList;
     }
-
     public cvList getMoncvList() {
         return moncvList;
     }
